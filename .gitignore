@@ -1,0 +1,8 @@
+dist/
+tools/kernel32_imports.txt
+tools/toolchain/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
